@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402688925730",
+    "project_id": "saa-s-cloud-file-manage-r67dpu",
+    "storage_bucket": "saa-s-cloud-file-manage-r67dpu.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402688925730:android:48b15a8ccf26bc5c16aa7b",
+        "android_client_info": {
+          "package_name": "com.cloudy.dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZMOHYuphc-MTxUMh5NEP0zlKGbUpjQX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
